@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @xyzabr
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning python
-- 😄 Pronouns: pr
+# Hi, I'm Priyanshu 👋
 
-xyzabr/xyzabr is a ✨ special ✨ repository because i start life journey or coading  GitHub profile.
+- B.Tech CSE student
+- Interested in Cloud Computing and DevOps
+- Currently learning AWS, Linux, Git, GitHub, and Terraform
+- Building projects to improve my practical skills
+- Working on a Smart City Cloud Infrastructure Platform
 
+## Skills
+- AWS
+- Linux
+- Git & GitHub
+- Terraform
+- Basic Python
+- DevOps Fundamentals
+
+## Current Focus
+- Cloud projects
+- DevOps practice
+- Open-source learning
